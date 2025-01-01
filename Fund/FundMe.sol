@@ -73,3 +73,6 @@ contract FundMe {
         return i_owner;
     }
 }
+
+
+// deployed address: 0xF02161155A391172192d3b2C1Bc15649b9fce7E4
